@@ -10,7 +10,6 @@ edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
 
-
 # Configuration
 theme:
     name: material
@@ -52,7 +51,6 @@ icon:
 nav:
 - Home: index.md
 
-
 # Extra Plugins
 plugins:
     - search
@@ -93,11 +91,6 @@ markdown_extensions:
     repo: mkdocs-material
 - pymdownx.mark
 - pymdownx.smartsymbols
-- pymdownx.superfences:
-    custom_fences:
-        - name: mermaid
-        class: mermaid
-        format: !!python/name:pymdownx.superfences.fence_code_format
 - pymdownx.tabbed
 - pymdownx.tasklist:
     custom_checkbox: true
