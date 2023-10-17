@@ -58,7 +58,7 @@ nav:
 
 # Theme Extras
 extra_css:
-  - stylesheets/extra.css
+  - docs/stylesheets/extra.css
 
 # Extra Plugins
 plugins:
