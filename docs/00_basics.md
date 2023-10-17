@@ -9,43 +9,20 @@
 
 ## What is Open Science?
 
-Well, isn't this the million dollar question?
+Open Science isn't necessarily a set of checkboxes you need to tick, but rather an holistic approach to doing
+science. Open Science can be very different across domains, based on both cultural expectations and logistical limitations such
+as data privacy. In the context of research, open science helps to balance between getting it right over getting it published.
 
-If you ask a dozen researchers, you will probably get just as many
-answers. The concept of Open Science is changing and growing as
-technology, expectations, and the reproducibility crisis change. What
-constitutes Open Science can also be very different across domains,
-based on both cultural expectations and more logistical limitations such
-as data privacy. This means that Open Science isn't necessarily a set
-of checkboxes you need to tick, but rather an holistic approach to doing
-science.
-
-To get a feel for how Open Science can be multifaceted and different for
-each researcher, we will do a short breakout group session to discuss
-what Open Science means to you.
-
-!!! Question "Discussion Question"
-        - What does Open Science mean to you?
-        - What characteristics might a paper/project/lab require to qualify as "Open"?
-        - What are some limitations to you, your lab/group, or your domain?
+*What is the open science to you?*
 
 ### Components of Open Science
 
-One of the most fundamental, and certainly the most publicized component
-of Open Science is the accessibility of data. This makes sense- without
-access to your data, nothing else about your science can be all that
-open. While we will devote an entire week of this course to data,
-opening up your data is only one piece of the puzzle.
+The most fundamental component of Open Science is the accessibility of data. Without that, everything else falls apart. 
 
-![Open Science pieces](assets/1.png) 
+![Open Science pieces](assets/1-01.png) 
 
-*Gallagher et al 2020, Nature Eco Evo*
-
-This figure demonstrates the multiple intersecting pieces of Open
-Science, which go beyond simply making data accessible. While we focus
-primarily on Open Data, Open Source, and Open Methodology in FOSS, it's
-worth considering how other parts of the scientific process might be
-opened up more broadly.
+The diagram represents core pieces of Open Science beyond making data accessible. We will focus on Open Data, Open Source, and Open Methodology.
+One component that 
 
 Another component which sort of covers all of the pictured components,
 or at least links a lot of them together, might be referred to as Open
