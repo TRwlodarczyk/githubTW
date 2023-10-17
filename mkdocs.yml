@@ -50,6 +50,8 @@ icon:
 # Page tree
 nav:
 - Home: index.md
+- Workshop materials:
+    - 'Intro to Open Science': basics.md
 
 # Extra Plugins
 plugins:
