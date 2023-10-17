@@ -9,14 +9,52 @@
 
 ## What is Open Science?
 
+??? Quote "Definitions"
+
+    "Open Science is defined as an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly  available,  accessible  and  reusable  for  everyone,  to  increase  scientific  collaborations  and  sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community." - [UNESCO Definition](https://www.unesco.org/en/natural-sciences/open-science){target=_blank}
+
+    - [UNESCO's Recommendation on Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en){target=_blank}
+    
+    "Open Science is the movement to make scientific research (including publications, data, physical samples, and software) and its dissemination accessible to all levels of society, amateur or professional..." [ :material-wikipedia: Wikipedia definition](https://en.wikipedia.org/wiki/Open_science){target=_blank}
+
+    Open and Collaborative Science Network's [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/){target=_blank}
+    
 Open Science isn't necessarily a set of checkboxes you need to tick, but rather an holistic approach to doing
 science. Open Science can be very different across domains, based on both cultural expectations and logistical limitations such
 as data privacy. In the context of research, open science helps to balance between getting it right over getting it published.
 
 *What is the open science to you?*
 
+
+
+
+
+??? Tip "Foster Open Science Diagram"
+        
+    [![foster](https://www.fosteropenscience.eu/themes/fosterstrap/images/taxonomies/os_taxonomy.png)](https://www.fosteropenscience.eu/resources){target=_blank} 
+
+             Graphic by [Foster Open Science](https://www.fosteropenscience.eu/){target=_blank}
+
 ### Components of Open Science
 
+??? Example "Six Pillars :material-pillar: of Open Science"
+
+    **:material-pillar: Open Access Publications**
+
+    **:material-pillar: Open Data**
+
+    **:material-pillar: Open Educational Resources**
+
+    **:material-pillar: Open Methodology**
+      
+    **:material-pillar: Open Peer Review**
+
+    **:material-pillar: Open Source Software**
+
+    ??? Question "Wait, how many pillars :material-pillar: of Open Science Really Are There?"
+
+            The number can be from [4 :material-pillar:](https://narratives.insidehighered.com/four-pillars-of-open-science/){target=_blank} to [8 :material-pillar:](https://www.ucl.ac.uk/library/research-support/open-science/8-pillars-open-science){target=_blank}
+            
 The most fundamental component of Open Science is the accessibility of data. Without that, everything else falls apart. 
 
 <img src="assets/1-01.png" alt="drawing" width="500"/>
