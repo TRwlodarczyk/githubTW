@@ -21,9 +21,8 @@ The most fundamental component of Open Science is the accessibility of data. Wit
 
 ![Open Science pieces](assets/1-01.png) 
 
-![](./assets/1-01.png =100x20)
 
-<img src="assets/1-01.png" alt="drawing" width="1000"/>
+<img src="assets/1-01.png" alt="drawing" width="500"/>
 
 The diagram represents core pieces of Open Science beyond making data accessible. We will focus on Open Data, Open Source, and Open Methodology.
 One component that 
