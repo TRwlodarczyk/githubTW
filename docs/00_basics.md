@@ -20,7 +20,8 @@ as data privacy. In the context of research, open science helps to balance betwe
 The most fundamental component of Open Science is the accessibility of data. Without that, everything else falls apart. 
 
 ![Open Science pieces](assets/1-01.png) 
-<img src="assets/1-01.png" alt="drawing" width="200"/>
+<img src="assets/1-01.png" alt="drawing" width="1000"/>
+
 The diagram represents core pieces of Open Science beyond making data accessible. We will focus on Open Data, Open Source, and Open Methodology.
 One component that 
 
