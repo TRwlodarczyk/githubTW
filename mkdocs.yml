@@ -38,6 +38,10 @@ static_templates:
 include_search_page: false
 search_index_only: true
 
+# Theme Extras
+extra_css:
+  - stylesheets/extra.css
+  
 # Palette and theme (uses personalized colours)
 language: en
 palette:
