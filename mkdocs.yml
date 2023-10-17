@@ -12,13 +12,11 @@ copyright: 'Copyright &copy; 2023 - 2024'
 
 # Configuration
 theme:
-    name: material
-highlightjs: true
-font:
+  name: material
+  highlightjs: true
+  font:
     text: Roboto
     code: Regular
-palette:
-    scheme: default
 
 # Features  
 features:
