@@ -22,7 +22,9 @@ The most fundamental component of Open Science is the accessibility of data. Wit
 <img src="assets/1-01.png" alt="drawing" width="500"/>
 
 The diagram represents core pieces of Open Science beyond making data accessible. We will focus on Open Data, Open Source, and Open Methodology.
-One component that 
+One component that was added additionally to the chart is Open Process. It links a lot of Open Science pieces together. It was created in response to the Reproducibility Crisis when researchers have begun to advocate for **preregistration** of studies. This involes writing out and publishing the entire research plan to avoid practices like [p-hacking](https://embassy.science/wiki/Theme:6b584d4e-2c9d-4e27-b370-5fbdb983ab46#:~:text=P%2Dvalue%20hacking%2C%20also%20known,there%20is%20no%20underlying%20effect.) or HARKing. Preregistration separates hypothesis-generating  (exploratory) from hypothesis-testing (confirmatory) research. Both are important. But the same data cannot be used to generate and test a hypothesis.
+
+[Learn More abour Preregistration](https://www.cos.io/initiatives/prereg#:~:text=What%20is%20Preregistration%3F,Both%20are%20important.)
 
 Another component which sort of covers all of the pictured components,
 or at least links a lot of them together, might be referred to as Open
