@@ -4,6 +4,7 @@ site_author: I am a PhD student at the University of Arizona in the department o
 site_url: https://TRwlodarczyk.github.io/githubTW
 
 # Repository
+docs_dir: docs/
 repo_name: githubTW
 repo_url: https://github.com/TRwlodarczyk/githubTW
 edit_uri: edit/main/docs/
