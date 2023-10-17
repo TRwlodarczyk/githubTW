@@ -51,7 +51,7 @@ icon:
 nav:
 - Home: index.md
 - Workshop materials:
-    - 'Intro to Open Science': basics.md
+    - 'Intro to Open Science': 00_basics.md
 
 # Extra Plugins
 plugins:
